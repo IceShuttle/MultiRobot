@@ -1,0 +1,20 @@
+#+title: Multi Robot
+
+* Understanding Taxanomy
+** The 3C's
+*** Coordination
+Ratio of Performance with the number of robots
+[[./coordination.png]]
+*** Cooperation
+Increase in capabilities of the system with the increase in the number of robots
+[[./cooperation.png]]
+*** Collaboration
+Ratio of performance to the number of species of robots
+[[./collaboration.png]]
+** Planning and Task Assingment
+*** Assignment
+*** Routing
+*** Assignment
+*** Path-Planning
+*** Re-Assignment
+*** Re-Path-Planning
